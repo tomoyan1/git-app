@@ -69,4 +69,6 @@ end
 
 gem 'pry-rails'
 # テストB
-# 
+gem 'devise'
+gem 'pry-rails'
+
