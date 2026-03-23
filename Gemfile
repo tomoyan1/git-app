@@ -68,6 +68,5 @@ group :test do
 end
 
 
-gem 'pry-rails'
 gem 'devise'
-
+gem 'pry-rails'
